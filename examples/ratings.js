@@ -1,7 +1,7 @@
 var rating = require('../lib/rating');
 
 var ratings = {
-  alexaBacklinks: 20,
+  alexaBacklinks: 1000,
   alexaBounceRate: 40,
   alexaCountryRank: 100,
   alexaPageviewsPerVisitor: 4,
